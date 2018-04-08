@@ -1,0 +1,1 @@
+{"rustc":12632485290342977783,"features":"[]","target":8748539815868582474,"profile":731176819336294830,"deps":[["spin v0.4.5",14436654528835811790]],"local":[{"Precalculated":"0.4.2"}],"rustflags":["--sysroot","/home/isabel/.xargo"]}
